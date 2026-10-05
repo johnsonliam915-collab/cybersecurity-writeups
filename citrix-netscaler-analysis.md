@@ -1,5 +1,7 @@
 Citrix NetScaler Threat Report Analysis
 
+https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances
+
 Source: Google Threat Intelligence Group and Mandiant
 
 Report: Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances
